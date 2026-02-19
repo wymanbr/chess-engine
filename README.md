@@ -18,15 +18,15 @@ A fully functional chess engine built in Python using object-oriented programmin
 - Object-Oriented Programming
 
 ## How to Run
-Linux/macOS:
-source venv/bin/activate
+-Linux/macOS:
+-source venv/bin/activate
 
-Windows:
-venv\Scripts\activate
+-Windows:
+-venv\Scripts\activate
 
-pip install pygame
-pip install pygame_gui
+-pip install pygame
+-pip install pygame_gui
 
-python chess_gui_small_view.py
+-python chess_gui_small_view.py
 
 
